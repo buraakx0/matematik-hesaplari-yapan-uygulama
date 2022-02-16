@@ -1,6 +1,3 @@
-from imp import init_builtin
-
-
 print("-" * 40)
 print("Matematik işlemleri yapan uygulamaya hoşgeldiniz!")
 print("-" * 40)
@@ -48,3 +45,4 @@ if yapilacak == 6:
     print("İşleminizin sonucu:",hesap)
 
 # python matematik-islemleri.py
+# kosinüs hesap 
